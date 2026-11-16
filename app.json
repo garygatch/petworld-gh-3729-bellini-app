@@ -115,7 +115,12 @@
   },
   "defaultPage": "workspace",
   "directories": {
-    "assets": [],
+    "assets": [
+      {
+        "id": "SQC8y1Eu5LOiExnVrLbNz",
+        "name": "dir"
+      }
+    ],
     "components": [
       {
         "id": "1RSij9cMFCODWz_5L05S6",
@@ -128,18 +133,36 @@
         "name": "aa"
       }
     ],
-    "scripts": [],
+    "scripts": [
+      {
+        "id": "wTB70amXF33Gi5qN_H4NG",
+        "name": "dir"
+      }
+    ],
     "services": [],
-    "stylesheets": []
+    "stylesheets": [
+      {
+        "id": "0pmmBs3uSiMbyY8iraSvY",
+        "name": "dir"
+      }
+    ]
   },
   "localScripts": [
     {
       "path": "index.js"
+    },
+    {
+      "parentDirectoryId": "wTB70amXF33Gi5qN_H4NG",
+      "path": "dir/a.js"
     }
   ],
   "localStylesheets": [
     {
       "path": "index.css"
+    },
+    {
+      "parentDirectoryId": "0pmmBs3uSiMbyY8iraSvY",
+      "path": "dir/a.css"
     }
   ],
   "name": "petworld-gh-3729",
