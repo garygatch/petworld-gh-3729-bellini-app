@@ -14,6 +14,21 @@
       "nodeName": "bln-badge",
       "ownerName": null,
       "type": "core-component"
+    },
+    {
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "children": [],
+      "classList": [],
+      "expressions": [],
+      "name": "Breadcrumbs",
+      "nodeName": "bln-breadcrumbs",
+      "ownerName": null,
+      "type": "core-component"
     }
   ],
   "name": "cc",
