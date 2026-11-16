@@ -29,6 +29,21 @@
       "nodeName": "bln-breadcrumbs",
       "ownerName": null,
       "type": "core-component"
+    },
+    {
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "children": [],
+      "classList": [],
+      "expressions": [],
+      "name": "Button",
+      "nodeName": "bln-button",
+      "ownerName": null,
+      "type": "core-component"
     }
   ],
   "name": "cc",
