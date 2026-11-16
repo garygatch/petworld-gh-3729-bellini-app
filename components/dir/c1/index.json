@@ -11,6 +11,17 @@
       }
     }
   ],
+  "directories": {
+    "assets": [
+      {
+        "id": "nxwgBfJFf0rEuMYVVASOQ",
+        "name": "test"
+      }
+    ],
+    "components": [],
+    "scripts": [],
+    "stylesheets": []
+  },
   "modules": [],
   "name": "c1",
   "parentDirectoryId": "1RSij9cMFCODWz_5L05S6",
